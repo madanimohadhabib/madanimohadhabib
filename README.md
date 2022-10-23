@@ -1,7 +1,7 @@
 - Hi there 👋, MADANI MOHAMED EL-HABIB 22 Y.O
-  💻 Future software engineer
-  🌍 Develop a website,📱 Mobile application development 
-- Skills: HTML / CSS / JAVA / JAVASCRIPT / Flutter / Python / React JS
+  💻 information system engineers
+  🌍 Develop a website,📱 Mobile application development ,📱 UI mobile design with Figma
+- Skills: HTML / CSS / JAVA / JAVASCRIPT / FLUTTER / PYTHON / REACT JS / FIGMA
 - 👀 I’m interested in Private Project
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Any Project
