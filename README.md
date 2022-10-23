@@ -7,6 +7,6 @@
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me madanimohamed.habib@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madanimohadhabib&show_icons=true&theme=radical)](https://github.com/madanimohadhabib/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madanimohadhabib&show_icons=true&theme=dark)](https://github.com/madanimohadhabib/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madanimohadhabib)](https://github.com/madanimohadhabib/github-readme-stats)
