@@ -5,6 +5,3 @@
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me madanimohamed.habib@gmail.com
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madanimohadhabib)](https://github.com/madanimohadhabib/github-readme-stats)
